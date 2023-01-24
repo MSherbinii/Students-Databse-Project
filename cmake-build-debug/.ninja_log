@@ -1,0 +1,21 @@
+# ninja log v5
+1	139	6946419518258970	CMakeFiles/untitled6.dir/main.c.obj	2a8d4e11a0a61926
+140	350	6946419520296141	untitled6.exe	93ae4516f57e9ee
+12	139	6946418234035169	CMakeFiles/untitled6.dir/SDBAPP.c.obj	20252a78743a160d
+2	136	6946418234004047	CMakeFiles/untitled6.dir/SDB.c.obj	455e46307f1464a0
+1	210	6946421248200243	build.ninja	e9766ab3e0346fc
+42	188	6946421267114058	CMakeFiles/untitled6.dir/main.c.obj	78f4bdce1cc3740c
+2	193	6946421267114058	CMakeFiles/untitled6.dir/SDB.c.obj	61430678bdcfbf6c
+23	197	6946421267222753	CMakeFiles/untitled6.dir/SDBAPP.c.obj	fb194c55fb8f9eb9
+198	379	6946421268948540	untitled6.exe	93ae4516f57e9ee
+23	182	6955000397119617	CMakeFiles/untitled6.dir/main.c.obj	78f4bdce1cc3740c
+2	198	6955000397283406	CMakeFiles/untitled6.dir/SDB.c.obj	61430678bdcfbf6c
+198	469	6955000399913121	untitled6.exe	93ae4516f57e9ee
+3	171	6955001949999633	CMakeFiles/untitled6.dir/SDB.c.obj	61430678bdcfbf6c
+15	178	6955001950067171	CMakeFiles/untitled6.dir/SDBAPP.c.obj	fb194c55fb8f9eb9
+178	364	6955001951866519	untitled6.exe	93ae4516f57e9ee
+2	156	6955010188293319	CMakeFiles/untitled6.dir/SDB.c.obj	61430678bdcfbf6c
+156	335	6955010190021236	untitled6.exe	93ae4516f57e9ee
+2	170	6955022280581124	CMakeFiles/untitled6.dir/SDB.c.obj	61430678bdcfbf6c
+12	171	6955022280581124	CMakeFiles/untitled6.dir/SDBAPP.c.obj	fb194c55fb8f9eb9
+171	363	6955022282458232	untitled6.exe	93ae4516f57e9ee
